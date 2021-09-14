@@ -4,3 +4,5 @@ Day1 (30-08-2021) : Introduction to Machine Learning and its Types. Diffrence be
 Day2 (31-08-2021) : Introduction to Lists and List operation in python.
 
 Day3 (01-09-2021) : Introduction tp Numpy and its operations with example.
+
+Day4 (02-09-2021) : Introduction to matplotlib and subplot with examples. 
